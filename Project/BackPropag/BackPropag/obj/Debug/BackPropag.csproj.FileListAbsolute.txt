@@ -1,0 +1,42 @@
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\obj\Debug\BackPropag.csproj.AssemblyReference.cache
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\obj\Debug\BackPropag.Properties.Resources.resources
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\obj\Debug\BackPropag.csproj.GenerateResource.cache
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\obj\Debug\BackPropag.csproj.CoreCompileInputs.cache
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\bin\Debug\BackPropag.exe.config
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\bin\Debug\BackPropag.exe
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\bin\Debug\BackPropag.pdb
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\obj\Debug\BackPropag.exe
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\obj\Debug\BackPropag.pdb
+C:\Users\kru0142\Downloads\BackPropag\BackPropag\BackPropag\bin\Debug\BackPropag.exe.config
+C:\Users\kru0142\Downloads\BackPropag\BackPropag\BackPropag\bin\Debug\BackPropag.exe
+C:\Users\kru0142\Downloads\BackPropag\BackPropag\BackPropag\bin\Debug\BackPropag.pdb
+C:\Users\kru0142\Downloads\BackPropag\BackPropag\BackPropag\bin\Debug\OxyPlot.dll
+C:\Users\kru0142\Downloads\BackPropag\BackPropag\BackPropag\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\kru0142\Downloads\BackPropag\BackPropag\BackPropag\bin\Debug\OxyPlot.xml
+C:\Users\kru0142\Downloads\BackPropag\BackPropag\BackPropag\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\kru0142\Downloads\BackPropag\BackPropag\BackPropag\obj\Debug\BackPropag.csproj.AssemblyReference.cache
+C:\Users\kru0142\Downloads\BackPropag\BackPropag\BackPropag\obj\Debug\BackPropag.Properties.Resources.resources
+C:\Users\kru0142\Downloads\BackPropag\BackPropag\BackPropag\obj\Debug\BackPropag.csproj.GenerateResource.cache
+C:\Users\kru0142\Downloads\BackPropag\BackPropag\BackPropag\obj\Debug\BackPropag.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Downloads\BackPropag\BackPropag\BackPropag\obj\Debug\BackPropag.csproj.CopyComplete
+C:\Users\kru0142\Downloads\BackPropag\BackPropag\BackPropag\obj\Debug\BackPropag.exe
+C:\Users\kru0142\Downloads\BackPropag\BackPropag\BackPropag\obj\Debug\BackPropag.pdb
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\bin\Debug\OxyPlot.dll
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\bin\Debug\OxyPlot.WindowsForms.dll
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\bin\Debug\OxyPlot.xml
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\bin\Debug\OxyPlot.WindowsForms.xml
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\obj\Debug\BackPropag.Form1.resources
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\bin\Debug\BackPropag.exe.config
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\bin\Debug\BackPropag.exe
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\bin\Debug\BackPropag.pdb
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\bin\Debug\OxyPlot.dll
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\bin\Debug\OxyPlot.xml
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\obj\Debug\BackPropag.csproj.AssemblyReference.cache
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\obj\Debug\BackPropag.Form1.resources
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\obj\Debug\BackPropag.Properties.Resources.resources
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\obj\Debug\BackPropag.csproj.GenerateResource.cache
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\obj\Debug\BackPropag.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\obj\Debug\BackPropag.exe
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSBTUO\FEI\ING\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Volitelný\Neuronové sítě\Project\BackPropag\BackPropag\obj\Debug\BackPropag.pdb

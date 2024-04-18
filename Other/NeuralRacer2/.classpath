@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="lib" path="lib/jBullet/jbullet.jar" sourcepath="D:/Home/jez04/My programs/java_lib/jbullet-20101010/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Home/jez04/My%20programs/java_lib/jbullet-20101010/dist/javadoc/"/>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/lwjgl/jinput.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl/lwjgl.jar"/>
+	<classpathentry kind="lib" path="lib/vecmath-1.5.2.jar" sourcepath="D:/Home/jez04/My programs/java_lib/vecmath-1_5_2-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

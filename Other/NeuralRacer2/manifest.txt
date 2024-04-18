@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: cz.vsb.cs.neurace.gui.Init
+Class-Path: .
+  lib\jBullet\jbullet.jar
+  lib\lwjgl\jinput.jar
+  lib\lwjgl\lwjgl_util.jar
+  lib\lwjgl\lwjgl.jar
+  lib\vecmath-1.5.2.jar

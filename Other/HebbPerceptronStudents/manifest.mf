@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Permissions: all-permissions
+Main-Class: hebbPerceptron.gui.PerceptronVizualizer
+Created-By: David Jezek, VSB - TUO
+Specification-Version: 0.1
+Application-Name: Hepp Perceptron

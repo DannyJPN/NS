@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="makejar" basedir=".">
+    <property name="name" value="${proj_name}" />
+  <target name ="makejar" description="Create a jar for the HW project">
+    <jar manifest="manifest.mf" jarfile="${dist}/${name}.jar" >
+        <fileset dir="." includes="JNLP-INF/*.*"/>
+        <fileset dir="bin" />
+    </jar>
+  </target>
+</project>

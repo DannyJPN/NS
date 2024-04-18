@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="NeuralRacer2/deploy/NeuralRacer2.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/NeuralRacer2/build.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=NeuralRacer2/src&lt;cz.vsb.cs.neurace.gui{Init.java[Init" manifestLocation="/NeuralRacer2/manifest.txt" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=NeuralRacer2/src&lt;resources.cars"/>
+        <javaElement handleIdentifier="=NeuralRacer2/src&lt;cz.vsb.cs.neurace.race"/>
+        <javaElement handleIdentifier="=NeuralRacer2/src&lt;resources.img"/>
+        <file path="/NeuralRacer2/src/Text_cs.properties"/>
+        <javaElement handleIdentifier="=NeuralRacer2/src&lt;cz.vsb.cs.neurace.gui.track"/>
+        <javaElement handleIdentifier="=NeuralRacer2/src&lt;cz.vsb.cs.neurace.track"/>
+        <javaElement handleIdentifier="=NeuralRacer2/src&lt;resources.raceGraphics.cars"/>
+        <javaElement handleIdentifier="=NeuralRacer2/src&lt;cz.vsb.cs.neurace"/>
+        <javaElement handleIdentifier="=NeuralRacer2/src&lt;resources.raceGraphics.objects"/>
+        <javaElement handleIdentifier="=NeuralRacer2/src&lt;cz.vsb.cs.neurace.gui"/>
+        <javaElement handleIdentifier="=NeuralRacer2/src&lt;resources.tracks"/>
+        <file path="/NeuralRacer2/src/Text.properties"/>
+        <javaElement handleIdentifier="=NeuralRacer2/src&lt;cz.vsb.cs.neurace.connection"/>
+        <javaElement handleIdentifier="=NeuralRacer2/src&lt;cz.vsb.cs.neurace.server"/>
+        <file path="/NeuralRacer2/src/Text_en.properties"/>
+        <javaElement handleIdentifier="=NeuralRacer2/src&lt;resources.raceGraphics.surfaces"/>
+    </selectedElements>
+</jardesc>
